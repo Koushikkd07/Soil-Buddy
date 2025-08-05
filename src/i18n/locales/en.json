@@ -1,0 +1,250 @@
+{
+  "app": {
+    "title": "SoilBuddy",
+    "subtitle": "Growing healthy gardens together"
+  },
+  "login": {
+    "chooseExperience": "Choose your garden experience",
+    "children": {
+      "title": "Kids Garden Explorer",
+      "description": "Meet Dewey the Drop and Soily the Worm! Go on fun missions to help your garden grow strong and healthy!",
+      "badges": "Earn garden badges",
+      "games": "Play soil health games",
+      "reports": "Colorful soil reports",
+      "login": "Kids Login",
+      "username": "Your Garden Name",
+      "password": "Secret Garden Code",
+      "usernamePlaceholder": "Little Gardener",
+      "passwordPlaceholder": "Your secret code",
+      "loginButton": "Start Garden Adventure!"
+    },
+    "elder": {
+      "title": "Garden Wisdom Hub",
+      "description": "Simple, clear garden insights with voice guidance. Perfect for experienced gardeners who want easy-to-read soil health reports.",
+      "charts": "Large, clear charts",
+      "audio": "Audio notifications",
+      "reports": "Weekly garden reports",
+      "login": "Garden Login",
+      "username": "Username",
+      "password": "Password",
+      "usernamePlaceholder": "Enter your username",
+      "passwordPlaceholder": "Enter your password",
+      "loginButton": "Enter Garden Hub"
+    },
+    "goBack": "Go Back"
+  },
+  "childDashboard": {
+    "title": "Garden Adventure Time!",
+    "greeting": "Welcome back, Little Gardener!",
+    "soilHealth": "Soil Health Report",
+    "mascots": {
+      "dewey": "Hi! I'm Dewey the Drop! 💧",
+      "soily": "And I'm Soily the Worm! 🪱"
+    },
+    "metrics": {
+      "moisture": "Water Level",
+      "ph": "Soil Happiness",
+      "temperature": "Garden Temperature",
+      "nutrients": "Plant Food"
+    },
+    "status": {
+      "great": "Amazing!",
+      "good": "Pretty Good!",
+      "needsHelp": "Needs Help!"
+    },
+    "missions": {
+      "title": "Today's Garden Missions",
+      "waterPlants": "Water the thirsty plants! 💧",
+      "checkpH": "Help make soil happy! 😊",
+      "feedPlants": "Give plants their favorite food! 🌱"
+    },
+    "trends": {
+      "title": "Garden Time Machine! 🕰️",
+      "subtitle": "See how your garden grows over time!",
+      "periods": {
+        "7days": "This Week 📅",
+        "30days": "This Month 🗓️",
+        "90days": "Three Months 📊"
+      },
+      "indicators": {
+        "improving": "Getting Better! 📈",
+        "stable": "Staying Strong! ➡️",
+        "declining": "Needs Help! 📉"
+      },
+      "tooltips": {
+        "moisture": "Water level was {{value}}% on {{date}}",
+        "ph": "Soil happiness was {{value}} on {{date}}",
+        "temperature": "Garden was {{value}}°C on {{date}}",
+        "nutrients": "Plant food was {{value}}% on {{date}}"
+      }
+    },
+    "alerts": {
+      "title": "Garden Helpers Alert! 🚨",
+      "lowMoisture": {
+        "title": "Dewey says: Time to Water! 💧",
+        "message": "Your plants are thirsty! Let's give them a drink!",
+        "action": "Water Plants Now! 🌊"
+      },
+      "phImbalance": {
+        "title": "Soily says: Soil Needs Balance! ⚖️",
+        "message": "The soil isn't feeling happy. Let's help it!",
+        "action": "Fix Soil Balance! 🔧"
+      },
+      "tempExtreme": {
+        "title": "Temperature Alert! 🌡️",
+        "message": "It's too hot or cold for happy plants!",
+        "action": "Check Temperature! 🌤️"
+      },
+      "lowNutrients": {
+        "title": "Plants are Hungry! 🍽️",
+        "message": "Time to feed your green friends!",
+        "action": "Feed Plants! 🌱"
+      }
+    },
+    "reports": {
+      "title": "Weekly Garden Story! 📖",
+      "subtitle": "Your amazing garden adventure this week!",
+      "achievements": "New Achievements! 🏆",
+      "progress": "Garden Progress 📊",
+      "nextWeek": "Next Week's Missions 🎯",
+      "export": "Share My Story! 📤"
+    },
+    "chatbot": {
+      "title": "Ask Garden Helpers!",
+      "placeholder": "What do you want to know about your garden?",
+      "send": "Ask!",
+      "quickAccess": "Need help? Ask Soily the Worm!",
+      "chatNow": "Chat Now!",
+      "typing": "Soily is thinking...",
+      "helpText": "Ask about water, soil, temperature, or plant food! 🌱"
+    },
+    "learning": {
+      "title": "Garden Learning Adventure!",
+      "subtitle": "Learn amazing things about plants and soil with Dewey and Soily!",
+      "overview": "Overview",
+      "lessons": "Lessons",
+      "progress": "Progress",
+      "achievements": "Badges",
+      "dailyFact": "Daily Fun Fact!",
+      "learnMore": "Learn More!",
+      "startLearning": "Start Learning!",
+      "continueLesson": "Continue Lesson",
+      "completed": "Completed!",
+      "locked": "Locked",
+      "minutes": "min",
+      "points": "points",
+      "connectionTitle": "Your Garden's Learning Connections!",
+      "keepGrowing": "Keep Growing!",
+      "newBadge": "New Badge:",
+      "lessonComplete": "Lesson Completed!",
+      "greatJob": "Great job! You earned",
+      "backToLessons": "Back to Lessons"
+    },
+    "achievements": {
+      "title": "Your Garden Badges",
+      "waterHero": "Water Hero",
+      "soilExpert": "Soil Expert",
+      "plantBuddy": "Plant Buddy"
+    }
+  },
+  "elderDashboard": {
+    "title": "Garden Wisdom Hub",
+    "greeting": "Welcome to your garden dashboard",
+    "soilHealth": "Current Soil Health Status",
+    "metrics": {
+      "moisture": "Soil Moisture",
+      "ph": "pH Level",
+      "temperature": "Temperature",
+      "nutrients": "Nutrient Levels"
+    },
+    "status": {
+      "optimal": "Optimal",
+      "good": "Good",
+      "attention": "Needs Attention"
+    },
+    "recommendations": {
+      "title": "Today's Recommendations",
+      "water": "Water your plants - soil moisture is low",
+      "ph": "Consider adding lime to raise pH level",
+      "nutrients": "Time for organic fertilizer application"
+    },
+    "trends": {
+      "title": "Historical Soil Analysis",
+      "subtitle": "Track your garden's progress over time",
+      "periods": {
+        "7days": "Past 7 Days",
+        "30days": "Past 30 Days",
+        "90days": "Past 90 Days"
+      },
+      "indicators": {
+        "improving": "Improving Trend",
+        "stable": "Stable Condition",
+        "declining": "Declining Trend"
+      },
+      "tooltips": {
+        "moisture": "Moisture: {{value}}% on {{date}}",
+        "ph": "pH Level: {{value}} on {{date}}",
+        "temperature": "Temperature: {{value}}°C on {{date}}",
+        "nutrients": "Nutrients: {{value}}% on {{date}}"
+      }
+    },
+    "alerts": {
+      "title": "Garden Alerts",
+      "lowMoisture": {
+        "title": "Low Moisture Alert",
+        "message": "Soil moisture is below optimal levels. Watering recommended.",
+        "action": "Water Garden"
+      },
+      "phImbalance": {
+        "title": "pH Imbalance Alert",
+        "message": "Soil pH is outside optimal range. Adjustment needed.",
+        "action": "Adjust pH Level"
+      },
+      "tempExtreme": {
+        "title": "Temperature Alert",
+        "message": "Soil temperature is outside optimal range.",
+        "action": "Monitor Temperature"
+      },
+      "lowNutrients": {
+        "title": "Low Nutrients Alert",
+        "message": "Nutrient levels are below recommended values.",
+        "action": "Apply Fertilizer"
+      }
+    },
+    "reports": {
+      "title": "Weekly Garden Report",
+      "subtitle": "Comprehensive analysis of your garden's health",
+      "summary": "Garden Summary",
+      "trends": "Trend Analysis",
+      "recommendations": "Recommendations",
+      "schedule": "Care Schedule",
+      "export": {
+        "pdf": "Download PDF",
+        "email": "Email Report"
+      }
+    },
+    "chatbot": {
+      "title": "Garden Assistant",
+      "placeholder": "Ask about your garden health...",
+      "send": "Send",
+      "quickAccess": "Garden Assistant Available",
+      "quickAccessDesc": "Get expert advice on soil care, watering, and plant health",
+      "askAssistant": "Ask Assistant",
+      "typing": "Analyzing your question...",
+      "helpText": "Ask about: moisture, pH, temperature, nutrients, schedules"
+    },
+    "weeklyReport": {
+      "title": "Weekly Garden Report",
+      "summary": "Your garden is showing good progress this week with steady improvements in soil health."
+    },
+    "audioAlerts": {
+      "title": "Audio Alerts",
+      "enabled": "Enabled",
+      "disabled": "Disabled"
+    }
+  },
+  "common": {
+    "logout": "Logout",
+    "language": "Language"
+  }
+}

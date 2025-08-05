@@ -1,0 +1,113 @@
+{
+  "app": {
+    "title": "SoilBuddy",
+    "subtitle": "Cultivando jardines saludables juntos"
+  },
+  "login": {
+    "chooseExperience": "Elige tu experiencia de jardín",
+    "children": {
+      "title": "🎈 Explorador de Jardín Infantil",
+      "description": "¡Conoce a Dewey la Gota y Soily el Gusano! ¡Ve en misiones divertidas para ayudar a que tu jardín crezca fuerte y saludable!",
+      "badges": "Gana insignias de jardín",
+      "games": "Juega juegos de salud del suelo",
+      "reports": "Reportes coloridos del suelo",
+      "login": "🎈 Inicio de Niños",
+      "username": "🌟 Tu Nombre de Jardín",
+      "password": "🔐 Código Secreto del Jardín",
+      "usernamePlaceholder": "Pequeño Jardinero",
+      "passwordPlaceholder": "Tu código secreto",
+      "loginButton": "🚀 ¡Comenzar Aventura del Jardín!"
+    },
+    "elder": {
+      "title": "🌿 Centro de Sabiduría del Jardín",
+      "description": "Información simple y clara del jardín con guía de voz. Perfecto para jardineros experimentados que quieren reportes fáciles de leer sobre la salud del suelo.",
+      "charts": "Gráficos grandes y claros",
+      "audio": "Notificaciones de audio",
+      "reports": "Reportes semanales del jardín",
+      "login": "🌿 Inicio del Jardín",
+      "username": "Usuario",
+      "password": "Contraseña",
+      "usernamePlaceholder": "Ingresa tu usuario",
+      "passwordPlaceholder": "Ingresa tu contraseña",
+      "loginButton": "Entrar al Centro del Jardín"
+    },
+    "goBack": "← Regresar"
+  },
+  "childDashboard": {
+    "title": "¡Hora de Aventura en el Jardín!",
+    "greeting": "¡Bienvenido de vuelta, Pequeño Jardinero!",
+    "soilHealth": "Reporte de Salud del Suelo",
+    "mascots": {
+      "dewey": "¡Hola! ¡Soy Dewey la Gota! 💧",
+      "soily": "¡Y yo soy Soily el Gusano! 🪱"
+    },
+    "metrics": {
+      "moisture": "Nivel de Agua",
+      "ph": "Felicidad del Suelo",
+      "temperature": "Temperatura del Jardín",
+      "nutrients": "Comida de Plantas"
+    },
+    "status": {
+      "great": "¡Increíble!",
+      "good": "¡Bastante Bien!",
+      "needsHelp": "¡Necesita Ayuda!"
+    },
+    "missions": {
+      "title": "Misiones de Jardín de Hoy",
+      "waterPlants": "¡Riega las plantas sedientas! 💧",
+      "checkpH": "¡Ayuda a hacer feliz el suelo! 😊",
+      "feedPlants": "¡Dale a las plantas su comida favorita! 🌱"
+    },
+    "chatbot": {
+      "title": "¡Pregunta a los Ayudantes del Jardín!",
+      "placeholder": "¿Qué quieres saber sobre tu jardín?",
+      "send": "¡Preguntar!"
+    },
+    "achievements": {
+      "title": "Tus Insignias de Jardín",
+      "waterHero": "Héroe del Agua",
+      "soilExpert": "Experto en Suelo",
+      "plantBuddy": "Amigo de Plantas"
+    }
+  },
+  "elderDashboard": {
+    "title": "Centro de Sabiduría del Jardín",
+    "greeting": "Bienvenido a tu panel de jardín",
+    "soilHealth": "Estado Actual de Salud del Suelo",
+    "metrics": {
+      "moisture": "Humedad del Suelo",
+      "ph": "Nivel de pH",
+      "temperature": "Temperatura",
+      "nutrients": "Niveles de Nutrientes"
+    },
+    "status": {
+      "optimal": "Óptimo",
+      "good": "Bueno",
+      "attention": "Necesita Atención"
+    },
+    "recommendations": {
+      "title": "Recomendaciones de Hoy",
+      "water": "Riega tus plantas - la humedad del suelo está baja",
+      "ph": "Considera agregar cal para elevar el nivel de pH",
+      "nutrients": "Es hora de aplicar fertilizante orgánico"
+    },
+    "chatbot": {
+      "title": "Asistente de Jardín",
+      "placeholder": "Pregunta sobre la salud de tu jardín...",
+      "send": "Enviar"
+    },
+    "weeklyReport": {
+      "title": "Reporte Semanal del Jardín",
+      "summary": "Tu jardín está mostrando buen progreso esta semana con mejoras constantes en la salud del suelo."
+    },
+    "audioAlerts": {
+      "title": "Alertas de Audio",
+      "enabled": "Habilitado",
+      "disabled": "Deshabilitado"
+    }
+  },
+  "common": {
+    "logout": "Cerrar Sesión",
+    "language": "Idioma"
+  }
+}

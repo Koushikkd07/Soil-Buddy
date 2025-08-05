@@ -1,0 +1,113 @@
+{
+  "app": {
+    "title": "SoilBuddy",
+    "subtitle": "Cultiver des jardins sains ensemble"
+  },
+  "login": {
+    "chooseExperience": "Choisissez votre expérience de jardin",
+    "children": {
+      "title": "🎈 Explorateur de Jardin pour Enfants",
+      "description": "Rencontrez Dewey la Goutte et Soily le Ver ! Partez en missions amusantes pour aider votre jardin à grandir fort et en bonne santé !",
+      "badges": "Gagnez des badges de jardin",
+      "games": "Jouez à des jeux de santé du sol",
+      "reports": "Rapports colorés du sol",
+      "login": "🎈 Connexion Enfants",
+      "username": "🌟 Votre Nom de Jardin",
+      "password": "🔐 Code Secret du Jardin",
+      "usernamePlaceholder": "Petit Jardinier",
+      "passwordPlaceholder": "Votre code secret",
+      "loginButton": "🚀 Commencer l'Aventure du Jardin !"
+    },
+    "elder": {
+      "title": "🌿 Centre de Sagesse du Jardin",
+      "description": "Aperçus simples et clairs du jardin avec guidage vocal. Parfait pour les jardiniers expérimentés qui veulent des rapports faciles à lire sur la santé du sol.",
+      "charts": "Graphiques grands et clairs",
+      "audio": "Notifications audio",
+      "reports": "Rapports hebdomadaires du jardin",
+      "login": "🌿 Connexion Jardin",
+      "username": "Nom d'utilisateur",
+      "password": "Mot de passe",
+      "usernamePlaceholder": "Entrez votre nom d'utilisateur",
+      "passwordPlaceholder": "Entrez votre mot de passe",
+      "loginButton": "Entrer dans le Centre du Jardin"
+    },
+    "goBack": "← Retour"
+  },
+  "childDashboard": {
+    "title": "C'est l'Heure de l'Aventure au Jardin !",
+    "greeting": "Bon retour, Petit Jardinier !",
+    "soilHealth": "Rapport de Santé du Sol",
+    "mascots": {
+      "dewey": "Salut ! Je suis Dewey la Goutte ! 💧",
+      "soily": "Et moi je suis Soily le Ver ! 🪱"
+    },
+    "metrics": {
+      "moisture": "Niveau d'Eau",
+      "ph": "Bonheur du Sol",
+      "temperature": "Température du Jardin",
+      "nutrients": "Nourriture des Plantes"
+    },
+    "status": {
+      "great": "Incroyable !",
+      "good": "Plutôt Bien !",
+      "needsHelp": "A Besoin d'Aide !"
+    },
+    "missions": {
+      "title": "Missions du Jardin d'Aujourd'hui",
+      "waterPlants": "Arrosez les plantes assoiffées ! 💧",
+      "checkpH": "Aidez à rendre le sol heureux ! 😊",
+      "feedPlants": "Donnez aux plantes leur nourriture préférée ! 🌱"
+    },
+    "chatbot": {
+      "title": "Demandez aux Assistants du Jardin !",
+      "placeholder": "Que voulez-vous savoir sur votre jardin ?",
+      "send": "Demander !"
+    },
+    "achievements": {
+      "title": "Vos Badges de Jardin",
+      "waterHero": "Héros de l'Eau",
+      "soilExpert": "Expert du Sol",
+      "plantBuddy": "Ami des Plantes"
+    }
+  },
+  "elderDashboard": {
+    "title": "Centre de Sagesse du Jardin",
+    "greeting": "Bienvenue dans votre tableau de bord du jardin",
+    "soilHealth": "État Actuel de la Santé du Sol",
+    "metrics": {
+      "moisture": "Humidité du Sol",
+      "ph": "Niveau de pH",
+      "temperature": "Température",
+      "nutrients": "Niveaux de Nutriments"
+    },
+    "status": {
+      "optimal": "Optimal",
+      "good": "Bon",
+      "attention": "Nécessite de l'Attention"
+    },
+    "recommendations": {
+      "title": "Recommandations d'Aujourd'hui",
+      "water": "Arrosez vos plantes - l'humidité du sol est faible",
+      "ph": "Considérez ajouter de la chaux pour augmenter le niveau de pH",
+      "nutrients": "Il est temps d'appliquer de l'engrais organique"
+    },
+    "chatbot": {
+      "title": "Assistant de Jardin",
+      "placeholder": "Demandez à propos de la santé de votre jardin...",
+      "send": "Envoyer"
+    },
+    "weeklyReport": {
+      "title": "Rapport Hebdomadaire du Jardin",
+      "summary": "Votre jardin montre de bons progrès cette semaine avec des améliorations constantes de la santé du sol."
+    },
+    "audioAlerts": {
+      "title": "Alertes Audio",
+      "enabled": "Activé",
+      "disabled": "Désactivé"
+    }
+  },
+  "common": {
+    "logout": "Déconnexion",
+    "language": "Langue"
+  }
+}
